@@ -10,3 +10,5 @@
 * Learn how to make a tree map
 * Learn how to make a wordcloud
 * Learn how to make a map
+
+[Start the lesson](https://github.com/BritishMuseum/RLessons/blob/master/BritishMuseumRcodingLesson.Rmd)
