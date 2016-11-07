@@ -5,7 +5,7 @@
 
 *Download [R](https://www.r-project.org/) and [R studio desktop](https://www.rstudio.com/products/rstudio/download/) to get started.*
 
-### Objectives: {#anchor}
+### Objectives: 
 * Learn how to load data into R 
 * Learn how to make a tree map
 * Learn how to make a wordcloud
