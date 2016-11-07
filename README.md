@@ -12,3 +12,8 @@
 * Learn how to make a map
 
 [Start the lesson](https://github.com/BritishMuseum/RLessons/blob/master/BritishMuseumRcodingLesson.Rmd)
+
+![](https://github.com/BritishMuseum/RLessons/blob/master/treemap.png)
+![](https://github.com/BritishMuseum/RLessons/blob/master/activitieswordcloud.png)
+![](https://github.com/BritishMuseum/RLessons/blob/master/BMwordcloud.png)
+![](https://github.com/BritishMuseum/RLessons/blob/master/worldmap.png)
