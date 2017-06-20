@@ -5,11 +5,9 @@ output: html_document
 
 ![](logo.png)
 
-#Coding : R Lessons 
+# Coding : R Lessons 
 
 Date: November 2016
-
-Author : Alice Daish (Data Scientist)
 
 *This R lesson is for students or eager data champions to get an initial glimpse into the world of coding using the open source programming and statistical language R.*
 
@@ -23,7 +21,7 @@ Author : Alice Daish (Data Scientist)
 
 ***
 
-###Getting Started {#anchor1}
+### Getting Started {#anchor1}
 
 **Set working directory and upload data**
 
@@ -67,7 +65,7 @@ str(actdata)
 
 ***
 
-#TreeMap
+# TreeMap
 Lets plot the activties data onto a tree map. 
 
 **Install Package**
@@ -126,7 +124,7 @@ map4<-treemap(actdata,
 Jump to [Top](#anchor1)
 ***
 
-#WordCloud
+# WordCloud
 **Install Packages**
 ```{r,warning=FALSE,message=FALSE}
 install.packages("wordcloud") #install the package called wordcloud
@@ -182,7 +180,7 @@ Jump to [Top](#anchor)
 ***
 
 
-#World Map
+# World Map
 [Example Map Code](https://github.com/BritishMuseum/RGlobalMuseumMap)
 
 [WorldMap Package](https://cran.r-project.org/web/packages/rworldmap/)
@@ -251,7 +249,7 @@ Jump to [Top](#anchor)
 
 ***
 
-##To continue learning R 
+## To continue learning R 
 
 Try out [Data Camp - Introduction to R](https://www.datacamp.com/getting-started?step=2&track=r)
 
