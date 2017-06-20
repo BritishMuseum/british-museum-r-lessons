@@ -16,5 +16,4 @@ This R lesson is for students or eager data champions to get an initial glimpse 
 
 
 
-<img src="https://github.com/BritishMuseum/RLessons/blob/master/treemap.png" width="250"><img src="https://github.com/BritishMuseum/RLessons/blob/master/activitieswordcloud.png" width="250"><img src="https://github.com/BritishMuseum/RLessons/blob/master/BMwordcloud.png" width="250"><img src="https://github.com/BritishMuseum/RLessons/blob/master/worldmap.png" width="250">
-
+<img src="https://github.com/BritishMuseum/RLessons/blob/master/treemap/treemap.png" width="250"><img src="https://github.com/BritishMuseum/RLessons/blob/master/wordcloud/activitieswordcloud.png" width="250"><img src="https://github.com/BritishMuseum/RLessons/blob/master/wordcloud/BMwordcloud.png" width="250"><img src="https://github.com/BritishMuseum/RLessons/blob/master/worldmap/worldmap.png" width="250">
