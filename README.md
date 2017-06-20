@@ -12,7 +12,7 @@ This R lesson is for students or eager data champions to get an initial glimpse 
 * Learn how to make a wordcloud
 * Learn how to make a map
 
-## [Start the lesson](https://github.com/BritishMuseum/RLessons/blob/master/BritishMuseumRcodingLesson.Rmd)
+##  :arrow_right: [Start the lesson](https://github.com/BritishMuseum/RLessons/blob/master/BritishMuseumRcodingLesson.Rmd)
 
 
 
