@@ -1,4 +1,4 @@
-# R Lessons
+# R Lessons  :school:
  
 ![](https://img.shields.io/badge/repo-RLessons-red.svg) ![](https://img.shields.io/badge/code-R-blue.svg) 
 
